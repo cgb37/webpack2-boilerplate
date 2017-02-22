@@ -1,0 +1,22 @@
+{
+
+  "baseUrl": "/public/",
+
+  "branches" : {
+
+    "richter": {
+
+      "tel": "305-284-5555",
+      "email": "web@miami.edu"
+
+    },
+
+    "music": {
+      "tel": "305-555-1234",
+      "email": "web@mail.edu"
+
+    }
+
+  }
+
+}
